@@ -1,0 +1,5 @@
+![](https://github.com/oohhooh/Quantum-mechanics/blob/master/pictures/IMG_20161129_202809.jpg)    
+![](https://github.com/oohhooh/Quantum-mechanics/blob/master/pictures/IMG_20161129_205404.jpg)    
+![](https://github.com/oohhooh/Quantum-mechanics/blob/master/pictures/IMG_20161129_220039.jpg)    
+![](https://github.com/oohhooh/Quantum-mechanics/blob/master/pictures/IMG_20161129_230055.jpg)    
+![](https://github.com/oohhooh/Quantum-mechanics/blob/master/pictures/IMG_20161129_232326.jpg)    
