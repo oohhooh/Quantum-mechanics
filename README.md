@@ -2,3 +2,4 @@
  [第二次作业](https://github.com/oohhooh/Quantum-mechanics/blob/master/homeworkn.md)    
  [第三次作业](https://github.com/oohhooh/Quantum-mechanics/blob/master/homework3.md)    
  [第四次作业](https://github.com/oohhooh/Quantum-mechanics/blob/master/homework4.md)
+ [第五次作业](https://github.com/oohhooh/Quantum-mechanics/blob/master/homework5.md)
