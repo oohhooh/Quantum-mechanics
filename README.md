@@ -4,3 +4,4 @@
  [第四次作业](https://github.com/oohhooh/Quantum-mechanics/blob/master/homework4.md)    
  [第五次作业](https://github.com/oohhooh/Quantum-mechanics/blob/master/homework5.md)    
  [第六次作业](https://github.com/oohhooh/Quantum-mechanics/blob/master/homework6.md)    
+ [第七次作业](https://github.com/oohhooh/Quantum-mechanics/blob/master/homework7.md)
